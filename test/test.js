@@ -26,6 +26,4 @@ describe('HTTP routes', function() {
         done();
       });
   });
-
-
 });
